@@ -1,0 +1,15 @@
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\WatiN.Core.UnitTests.dll.config
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\WatiN.Core.UnitTests.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\WatiN.Core.UnitTests.pdb
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\Interop.SHDocVw.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\Moq.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\nunit.framework.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\WatiN.Core.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\WatiN.Core.pdb
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\WatiN.Core.xml
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\Moq.xml
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\nunit.framework.xml
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\obj\Debug (.Net 3.5)\UnitTests.csprojResolveAssemblyReference.cache
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\obj\Debug (.Net 3.5)\WatiN.Core.UnitTests.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\obj\Debug (.Net 3.5)\WatiN.Core.UnitTests.pdb
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\UnitTests\bin\WatiN.Core.UnitTests.XML

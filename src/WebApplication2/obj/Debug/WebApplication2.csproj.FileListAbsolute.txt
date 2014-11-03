@@ -1,0 +1,7 @@
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\WebApplication2\bin\WebApplication2.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\WebApplication2\bin\WebApplication2.pdb
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\WebApplication2\bin\WatiN.Core.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\WebApplication2\bin\Interop.SHDocVw.dll

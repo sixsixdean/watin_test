@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>WatiN.Core.UnitTests</name>
+    </assembly>
+    <members>
+        <member name="M:WatiN.Core.UnitTests.TestUtils.BaseWithBrowserTests.ExecuteTest(WatiN.Core.UnitTests.TestUtils.BaseWithBrowserTests.BrowserTest)">
+            <summary>
+            Executes the test using both FireFox and Internet Explorer.
+            </summary>
+            <param name="testMethod">The test method.</param>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.TestUtils.BaseWithBrowserTests.BrowserTest">
+            <summary>
+            The test method to execute.
+            </summary>
+        </member>
+        <member name="M:WatiN.Core.UnitTests.TestUtils.HtmlInjector.Start(WatiN.Core.Document,System.String,System.Int32)">
+            <summary>
+            Starts a new thread and injects the html into the document after numberOfSecondsToWaitBeforeInjection.
+            </summary>
+            <param name="document"></param>
+            <param name="html"></param>
+            <param name="numberOfSecondsToWaitBeforeInjection"></param>
+        </member>
+        <member name="M:WatiN.Core.UnitTests.DialogHandlerTests.PromptDialogHandlerTests.PromptDialogHandler">
+            <summary>
+            Because of popup blockers this test will almost always fail. 
+            To run the test succesfully: 1 - Open the TestEvents.html page in IE.
+            2 - Click on the Show prompt button
+            3 - Handle the warning on top of the IE window, select to temporarily allow the scripts to run on this page
+            4 - Now you can start this unit test (remove Ignore attribute first)
+            </summary>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.AttributeConstraintTests.ProximityTests">
+            <summary>
+            Tests for identifying text-field correlation by proximity
+            </summary>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.TableBodyTests">
+            <summary>
+            Summary description for TableBodyTests.
+            </summary>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.WatiNSanityTests">
+             <summary>
+            This is a NUnit TestFixture class
+            </summary>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.NativeElementFinderTests">
+             <summary>
+            This is a NUnit TestFixture class
+            </summary>
+        </member>
+        <member name="M:WatiN.Core.UnitTests.FireFoxTests.FireFoxTests.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:WatiN.Core.UnitTests.FireFoxTests.FireFoxTests"/> class.
+            </summary>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.AttributeConstraintTests.ConstraintTests">
+            <summary>
+            Summary description for ConstraintTests.
+            </summary>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.UtilityClasses.TryFuncUntilTimeOutTests">
+             <summary>
+            This is a NUnit TestFixture class
+            </summary>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.TableTests">
+            <summary>
+            Summary description for TableTests.
+            </summary>
+        </member>
+        <member name="M:WatiN.Core.UnitTests.IETests.IeTests.AttachToIEWithZeroTimeout">
+            <summary>
+            Attaches to IE with a zero timeout interval. Allthough the timeout
+            interval is zero the existing IE instance should be found.
+            </summary>
+        </member>
+        <member name="M:WatiN.Core.UnitTests.IETests.IeTests.IECollectionExcludesWindowsExplorerWindows">
+            <summary>
+            This test addresses a problem in the IE collection where Windows Explorer
+            windows may get included in the list of shell windows which is a bit
+            problematic for methods like ForceClose since the test will timeout.
+            </summary>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.AttributeConstraintTests.IndexConstraintTests">
+            <summary>
+            Summary description for IndexConstraintTests.
+            </summary>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.Native.JSElementCollectionBaseTests">
+             <summary>
+            This is a NUnit TestFixture class
+            </summary>
+        </member>
+        <member name="M:WatiN.Core.UnitTests.Native.MockClientPort.Dispose">
+            <summary>
+            Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
+            </summary>
+            <filterpriority>2</filterpriority>
+        </member>
+        <member name="M:WatiN.Core.UnitTests.Native.MockClientPort.Connect(System.String)">
+            <summary>
+            Connects to the Chrome browser and navigates to the specified URL.
+            </summary>
+            <param name="url">The URL to connect to.</param>
+        </member>
+        <member name="P:WatiN.Core.UnitTests.Native.MockClientPort.JavaScriptEngine">
+            <summary>
+            Gets the type of java script engine.
+            </summary>
+            <value>The type of java script engine.</value>
+        </member>
+        <member name="P:WatiN.Core.UnitTests.Native.MockClientPort.BrowserVariableName">
+            <summary>
+            Gets the name of the browser variable.
+            </summary>
+            <value>The name of the browser variable.</value>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.DotNet35.LinqToWatiNTests">
+             <summary>
+            This is a NUnit TestFixture class
+            </summary>
+        </member>
+        <member name="T:WatiN.Core.UnitTests.DialogHandlerTests.CloseIEDialogHandlerTests">
+             <summary>
+            This is a NUnit TestFixture class
+            </summary>
+        </member>
+    </members>
+</doc>

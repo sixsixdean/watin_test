@@ -1,0 +1,9 @@
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\Core\obj\Debug (.Net 4.0)\WatiN.Core.pdb
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\Core\obj\Debug (.Net 4.0)\WatiN.Core.Properties.Resources.resources
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\Core\obj\Debug (.Net 4.0)\Core.csproj.GenerateResource.Cache
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\Core\bin\WatiN.Core.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\Core\bin\WatiN.Core.pdb
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\Core\bin\Interop.SHDocVw.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\Core\obj\Debug (.Net 4.0)\WatiN.Core.dll
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\Core\obj\Debug (.Net 4.0)\Core.csprojResolveAssemblyReference.cache
+C:\Users\wanglp2\Downloads\WatiN-2.1.0.1196\source\src\Core\bin\WatiN.Core.XML
