@@ -64,7 +64,7 @@ namespace ConsoleApplication1
 
             ie.Element("su").Click();
 
-
+            Thread.Sleep(500);
             List<Span> spanlist = ie.Spans.ToList();
             List<Div> divlist1 = new List<Div>();
             foreach (var s in spanlist)
